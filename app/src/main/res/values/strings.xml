@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IGN</string>
+    <string name="action_settings">Settings</string>
+    <string name="articles_fragment_title">Article</string>
+    <string name="videos_fragment_title">Videos</string>
+</resources>
